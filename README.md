@@ -24,15 +24,15 @@ I'm passionate about robotics, machine learning, and the intersection of automat
 ## 🏆 Noteworthy Projects
 
 ### MicroMouse @ RIT Engineering House
-Founded and led the MicroMouse team—a group of 15 students across engineering disciplines—to build and compete in the world’s most popular autonomous maze-solving competition. We're aiming to compete this year!
+Founded and led the MicroMouse team—a group of 15 students across engineering disciplines—to build and compete in the world’s most popular autonomous maze-solving competition.
 
 ---
 
 ## 🎻 Outside the Lab
 
 - **Violinist:** 14 years of experience
-- **Backpacking:** Frequent hiker in the White Mountains, working on the 4000-footers
-- **Aviation:** Avid fan of small-scale aviation, with plans to explore it further
+- **Backpacking:** Frequent hiker in the White Mountains, working on summiting the 48 4000-footers
+- **Aviation:** Avid fan of small-scale aviation, with plans to explore it further.
 
 ---
 
